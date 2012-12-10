@@ -1,3 +1,7 @@
+''' Change the file's postfix 
+Neal : njugui@gmail.com
+'''
+
 import os
 
 path = r'D:\HOME\Music\iMusic'
