@@ -1,3 +1,8 @@
+'''
+Generate the keyword list you concerned and copy them to the text file
+@author : neal (njugui@gmail.com)
+'''
+
 import os
 print "***Keywords to Text file: generate lines that contains your keywords**"
 
