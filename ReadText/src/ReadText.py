@@ -2,7 +2,7 @@
 '''
 Created on Nov 2, 2011
 
-@author: guchen
+@author: Neal : njugui@gmail.com
 '''
 import Tkinter
 import os
