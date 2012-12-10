@@ -43,7 +43,7 @@ def FetchData():
         type = sys.getfilesystemencoding()     
         for line in checkfile:
             line = line.decode("UTF-8").encode(type)        
-            date_west = getdata('date_west', line)  #Î÷Àú
+            date_west = getdata('date_west', line)  
             if date_west != False:
                 sheet1.write(i,1,date_west)
             
